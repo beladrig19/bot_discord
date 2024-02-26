@@ -60,4 +60,4 @@ async def update_blocks(ctx):
 
 
 # Lancement du bot
-bot.run('MTIxMTIxNjkzNzEzNzM0MDQ0Ng.GVfMd7.fY7HgVbIluCudD-UgbvXAfQnwoKUW4Mtt92PcM')
+bot.run('MTIxMTIxNjkzNzEzNzM0MDQ0Ng.GjwyOz.E5JbwXD_hrB2xlkOQ_N-w937WboCBUniDdbc4k')
